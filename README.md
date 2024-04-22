@@ -1,4 +1,4 @@
-# Data-Analytics-Projects
+# Python-For-Data-Analytics-Projects
 
 ## Profitable App Profiles for the App Store and Google Play Markets
 
